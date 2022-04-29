@@ -118,7 +118,7 @@ async def cb_handler(bot, update):
 
 @tgraph.on_message(filters.private & filters.command(["start"]))
 async def start(bot, update):
-        await update.reply_photo('https://telegra.ph/file/41fe7e055f684cf08795d.jpg')
+        
         await update.reply_text(
         text=START_TEXT.format(update.from_user.mention),
         
