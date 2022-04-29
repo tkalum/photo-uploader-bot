@@ -3,3 +3,4 @@ telegraph
 tgcrypto
 python-dotenv
 aiofiles
+youtube_search
