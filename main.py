@@ -21,7 +21,7 @@ import youtube_dl
 
 tgraph = Client(
     "Image upload bot",
-    bot_token='5162581959:AAG_4VNp_Nw-31vQzjlt-HP3-h8lG-hG6W0',
+    bot_token='5115439510:AAEMH6f2TsnkkYSEsVzndabwBlaljPNjzMY',
     api_id=19611094,
     api_hash='c5198b0dab5cdd8e0eaaf3e0c742fbd3'
 )
