@@ -5,3 +5,4 @@ python-dotenv
 aiofiles
 youtube_search
 pytube
+youtube_dl
